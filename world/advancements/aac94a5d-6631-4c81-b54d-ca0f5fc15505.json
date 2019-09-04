@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "coc:root": {
+    "criteria": {
+      "Begin": "2019-09-04 18:43:04 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-08-18 16:10:54 +0900"
